@@ -1,3 +1,4 @@
-# Cryptocurrencty trading markets API
+# Cryptocurrency trading markets API
+
 
 
